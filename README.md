@@ -25,7 +25,7 @@ You can now capture the console log outputs requested for the “Substrate-Timin
 
 
 
-# Confiurgation 
+## Confiurgation 
 Adjustment of the communication delays for the testing of the meta-state stability `simulation-probing/main/controllers/swarm/swarmtools/communication/communicator.py: 56`
 ``` python
         # self.send_delay = 0.0
